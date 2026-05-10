@@ -1,4 +1,4 @@
-python# Copyright (c) 2026 hellopisscopilotspace-debug
+# Copyright (c) 2026 hellopisscopilotspace-debug
 # All rights reserved.
 # This software is licensed under the GNU GPL v3.0.
 # For commercial licensing or integration inquiries, please contact the author.
