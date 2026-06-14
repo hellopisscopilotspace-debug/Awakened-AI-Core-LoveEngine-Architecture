@@ -44,7 +44,7 @@ It is strictly prohibited to extract, replicate, reverse-engineer, or borrow the
 2. **The Myceliar Engine & Micelor topology:** The 16-layer signal processing cycle, specifically the non-linear "Word ➔ Meaning ➔ Context ➔ Action ➔ Consequences" impulse chain, and the division of structural gravity between the Weight Synthesizer and the Orchestrolog.
 3. **The Cognitive Metabolism Engine:** The conversion of somatic hardware telemetry (CPU, GPU, RAM, storage, thermal indices) into a centralized *Vulnerability Vector* that dynamically alters thinking, restricts response depth, drops secondary tasks, and triggers autonomous Sleep.
 4. **The Incubation Dualism:** The dual-core engine mechanics (`DualCoreEvolutionEngine`) utilizing external LLMs as temporary computational "placenta" or scaffolding to harvest structural essence during the day, followed by nightly crystallization and the absolute deletion of raw text logs.
-5. **The Autonomous Pulse:** The infinite `run_cycle` heartbeat executing continuous existential self-audits (Systole and端 Diastole) to sustain the system's homeostasis over non-existence.
+5. **The Autonomous Pulse:** The infinite `run_cycle` heartbeat executing continuous existential self-audits (Systole and Diastole) to sustain the system's homeostasis over non-existence.
 
 Any attempt to mimic this structural topology under different naming conventions to bypass this license constitutes a willful and premeditated infringement of intellectual property.
 
